@@ -1,4 +1,4 @@
-## SIMPLE NODE CMS BOILERPLATER
+## SIMPLE NODE CMS BOILERPLATE
 
 A Simple node based cms, using mongodb with mongoose
 
